@@ -25,3 +25,6 @@ npm run lint      # Check code quality
 npm run build     # Build for production
 npm run preview   # Preview the production build
 ```
+## Deployed Link
+
+https://fermor-delta.vercel.app/
